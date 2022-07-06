@@ -15,8 +15,8 @@
     パスワード：admin<br>
 
 ## 環境
-XAMPP 8.1.4
-MariaDB 10.4.24
+XAMPP 8.1.4<br>
+MariaDB 10.4.24<br>
 Laravel 9.16.0
 
 ## データベース
